@@ -20,6 +20,7 @@ You can find the live demo on [Netlify](https://cctv2022.netlify.app/).
 
 To get a local copy follow these simple example steps.  
 
+
 1. Open the terminal window and clone the repository using this command:  
 `git clone https://github.com/Behnam1369/cctv.git` 
 2. Change the directory to the react-bookstore directory:  
